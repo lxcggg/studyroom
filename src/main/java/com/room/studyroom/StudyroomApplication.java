@@ -9,6 +9,7 @@ public class StudyroomApplication {
         SpringApplication.run(StudyroomApplication.class, args);
         System.out.println("hello world");
         System.out.println("lxc test");
+         System.out.println("wzg test");
     }
 
 }
